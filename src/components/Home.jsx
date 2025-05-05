@@ -175,7 +175,7 @@ export function Home() {
             The Subic Bay Metropolitan Authority (SBMA) has implemented an advanced monitoring system that delivers real-time image feeds from remote surveillance locations throughout the Subic Freeport to enhance security measures and ensure public safety in the area.
           </p>
           <p>
-          According to the police (nakalimutan ko Pad hahhahah), they were able to solve crimes through surveillance using their high-tech CCTV cameras. All of these cameras are monitored 24/7, allowing police officers to closely watch areas for any illegal activity and respond more quickly to apprehend suspects.
+          According to the Officer, they were able to solve crimes through surveillance using their high-tech CCTV cameras. All of these cameras are monitored 24/7, allowing police officers to closely watch areas for any illegal activity and respond more quickly to apprehend suspects.
           </p>
           <div className="gallery">
             <img src={d22}/>
